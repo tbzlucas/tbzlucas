@@ -9,6 +9,7 @@
 <br/>
 
 <a href="https://skillcash.gg/"><img src="https://img.shields.io/badge/SkillCash-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+<a href="https://t.me/jugugalu"><img src="https://img.shields.io/badge/Telegram-00d4ff?style=for-the-badge&logo=telegram&logoColor=black"/></a>
 <a href="https://github.com/tbzlucas"><img src="https://img.shields.io/badge/GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=black"/></a>
 <img src="https://komarev.com/ghpvc/?username=tbzlucas&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&abbreviated=true"/>
 
@@ -20,15 +21,13 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" width="38%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=1500&pause=300&color=00D4FF&multiline=true&repeat=false&width=340&height=180&lines=class+Lucas%3A;++++alias++++%3D+%22tbzlucas%22;++++role++++%3D+%22Founder+%2F+Dev%22;++++location+%3D+%22London%2C+UK%22;++++building+%3D+%22SkillCash%22;++++motto+++%3D+%22Just+ship+it.%22"/>
-
 - Founder of **[SkillCash](https://skillcash.gg/)**
 - Based in **London** 🇬🇧
 - Full-stack developer & product builder
 - Always shipping, always learning
 - Turning ideas into real products
 
-<br clear="right"/>
+<br/>
 
 ---
 
@@ -60,16 +59,16 @@
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=tbzlucas&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbzlucas&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6"/>
+<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tbzlucas&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Stats"/>
+<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tbzlucas&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Languages"/>
 
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=tbzlucas&hide_border=true&background=0d1117&stroke=0d1117&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=555555"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=tbzlucas&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=555555" alt="Streak"/>
 
 <br/><br/>
 
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=tbzlucas&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=tbzlucas&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
@@ -106,6 +105,7 @@
 <br/>
 
 <a href="https://skillcash.gg/" target="_blank"><img src="https://img.shields.io/badge/SkillCash-%230d1117.svg?style=for-the-badge&logo=firefox&logoColor=00d4ff"/></a>
+<a href="https://t.me/jugugalu" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230d1117.svg?style=for-the-badge&logo=telegram&logoColor=00d4ff"/></a>
 <a href="https://github.com/tbzlucas" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff"/></a>
 
 <br/><br/>
