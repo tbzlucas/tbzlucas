@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1117,100:00d4ff&height=180&section=header&text=&fontSize=0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=80&lines=%24+sudo+summon+lucas+%F0%9F%91%8B;01001100+01010101+01000011+01000001+01010011;Caffeine-to-code+converter+online" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=80&lines=%24+sudo+summon+lucas+%F0%9F%91%8B;01001100+01010101+01000011+01000001+01010011;Caffeine-to-code+converter+online" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Full-Stack+Sorcerer+%C2%B7+Bug+Whisperer+%C2%B7+London+%F0%9F%87%AC%F0%9F%87%A7;I+turn+%E2%98%95+into+%7B+%7D+at+industrial+scale;404%3A+sleep+not+found" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Full-Stack+Sorcerer+%C2%B7+Bug+Whisperer+%C2%B7+London+%F0%9F%87%AC%F0%9F%87%A7;I+turn+%E2%98%95+into+%7B+%7D+at+industrial+scale;404%3A+sleep+not+found" alt="Typing SVG" />
 
 <br/>
 
@@ -22,18 +22,18 @@
 
 ```ts
 const lucas = {
-  origin:       "London, UK 🇬🇧",
-  role:         "Full-Stack Developer & Product Builder",
-  superpower:   "turning 3am ideas into shipped features",
-  fuel:         ["☕", "curiosity", "the thrill of a green build"],
+  origin: "London, UK 🇬🇧",
+  role: "Full-Stack Developer & Product Builder",
+  superpower: "turning 3am ideas into shipped features",
+  fuel: ["☕", "curiosity", "the thrill of a green build"],
   currentQuest: "building things people can't stop using",
-  status:       "online ●  // always shipping, always learning",
+  status: "online ● // always shipping, always learning",
 } as const;
 
 while (alive) {
   lucas.learn();
   lucas.build();
-  lucas.ship();   // repeat until the heat death of the universe
+  lucas.ship(); // repeat until the heat death of the universe
 }
 ```
 
@@ -48,8 +48,8 @@ while (alive) {
 ### ⚡ Arsenal of Choice
 
 > *weapons forged for shipping at 2am*
->
-> <br/>
+> >
+> >> <br/>
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark"/>
 
@@ -70,8 +70,8 @@ while (alive) {
 ### 📊 Proof of Work
 
 > *the receipts don't lie*
->
-> <br/>
+> >
+> >> <br/>
 
 <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tbzlucas&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Stats"/>
 <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tbzlucas&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Languages"/>
@@ -106,6 +106,7 @@ while (alive) {
 
 </div>
 
+
 <br/>
 
 ---
@@ -117,8 +118,8 @@ while (alive) {
 ### 🤝 Open a Portal
 
 > *transmissions welcome — I usually reply faster than my CI pipeline*
->
-> <br/>
+> >
+> >> <br/>
 
 <a href="https://t.me/jugugalu" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230d1117.svg?style=for-the-badge&logo=telegram&logoColor=00d4ff"/></a>
 <a href="https://github.com/tbzlucas" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff"/></a>
@@ -126,8 +127,8 @@ while (alive) {
 <br/><br/>
 
 > *"The best error message is the one that never shows up."* — Thomas Fuchs
->
-> <br/>
+> >
+> >> <br/>
 
 <sub>⚡ Powered by caffeine, chaos, and an unhealthy respect for clean commit history ⚡</sub>
 
