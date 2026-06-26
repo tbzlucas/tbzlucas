@@ -16,9 +16,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           USERNAME: tbzlucas
-        with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SETTING_JSON: ""
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
