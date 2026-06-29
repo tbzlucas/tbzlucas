@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="1200" height="60" role="img" aria-label="footer">
+  <rect width="1200" height="60" fill="#0A0A0B"/>
+  <line x1="0" y1="30" x2="1200" y2="30" stroke="#141416" stroke-width="2"/>
+  <line x1="0" y1="30" x2="1200" y2="30" stroke="#8A8A8F" stroke-width="1" opacity="0.22"/>
+
+  <g>
+    <line x1="-160" y1="30" x2="0" y2="30" stroke="#22D3EE" stroke-width="2">
+      <animate attributeName="x1" values="-160;1200" dur="7s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+      <animate attributeName="x2" values="0;1360" dur="7s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+    </line>
+    <circle cy="30" r="3" fill="#22D3EE">
+      <animate attributeName="cx" values="0;1200" dur="7s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.94;1" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
