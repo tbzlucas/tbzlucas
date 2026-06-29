@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 56" width="200" height="56" role="img" aria-label="Email">
+  <defs>
+    <style>
+      .lbl { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 600; letter-spacing: 0.5px; }
+    </style>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;1" dur="4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+      <animate attributeName="x2" values="0;2" dur="4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+    </linearGradient>
+    <clipPath id="r"><rect x="1" y="1" width="198" height="54" rx="27"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="198" height="54" rx="27" fill="#141416" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.5">
+    <animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1" y="1" width="198" height="54" rx="27" fill="url(#sweep)" clip-path="url(#r)"/>
+
+  <g transform="translate(40 28)" fill="#F5F4F2">
+    <g transform="translate(-13 -9)" fill="none" stroke="#22D3EE" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+      <rect x="1" y="2" width="24" height="17" rx="3"/>
+      <path d="M2 4l11 8 11-8"/>
+    </g>
+  </g>
+  <text x="78" y="28" dominant-baseline="middle" class="lbl" font-size="17" fill="#F5F4F2">Email</text>
+</svg>
