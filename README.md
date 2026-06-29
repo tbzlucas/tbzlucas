@@ -4,26 +4,15 @@
 
 </div>
 
-Started in Scratch at 12, shipping extensions by 16, full web apps and Telegram bots by 18. Self-taught, end to end. Computer Science at Bristol next.
+Started in Scratch at 12, shipping extensions by 16, full web apps, bots and games by 18. Self-taught, end to end. Computer Science at Bristol next.
 
 ### Stack
 
-<table>
-  <tr>
-    <td align="center"><sub><b>TypeScript</b></sub></td>
-    <td align="center"><sub><b>JavaScript</b></sub></td>
-    <td align="center"><sub><b>Python</b></sub></td>
-    <td align="center"><sub><b>Node.js</b></sub></td>
-    <td align="center"><sub><b>React</b></sub></td>
-    <td align="center"><sub><b>HTML</b></sub></td>
-    <td align="center"><sub><b>CSS</b></sub></td>
-    <td align="center"><sub><b>Git</b></sub></td>
-    <td align="center"><sub><b>Docker</b></sub></td>
-    <td align="center"><sub><b>Postgres</b></sub></td>
-    <td align="center"><sub><b>Redis</b></sub></td>
-    <td align="center"><sub><b>Linux</b></sub></td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="./assets/stack.svg" width="100%" alt="TypeScript, JavaScript, Python, Node.js, React, HTML, CSS, Git, Docker, Postgres, Redis, Linux" />
+
+</div>
 
 <div align="center">
 
@@ -33,6 +22,14 @@ Started in Scratch at 12, shipping extensions by 16, full web apps and Telegram 
 
 ### Contact
 
-<a href="https://t.me/jugugalu"><kbd> Telegram </kbd></a> &nbsp; <a href="https://github.com/tbzlucas"><kbd> GitHub </kbd></a> &nbsp; <a href="mailto:lucastbz2007@gmail.com"><kbd> Email </kbd></a>
+<div align="center">
+
+<a href="https://t.me/jugugalu"><img src="./assets/btn-telegram.svg" height="44" alt="Telegram" /></a>
+&nbsp;
+<a href="https://github.com/tbzlucas"><img src="./assets/btn-github.svg" height="44" alt="GitHub" /></a>
+&nbsp;
+<a href="mailto:lucastbz2007@gmail.com"><img src="./assets/btn-email.svg" height="44" alt="Email" /></a>
+
+</div>
 
 <img src="./assets/footer.svg" width="100%" alt="" />
