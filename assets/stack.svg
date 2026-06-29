@@ -10,76 +10,58 @@
   <line x1="0" y1="20" x2="1200" y2="20" stroke="#141416" stroke-width="1"/>
   <line x1="0" y1="100" x2="1200" y2="100" stroke="#141416" stroke-width="1"/>
 
-  <g transform="translate(50.0 60.0)">
+    <g transform="translate(70.0 60.0)">
     <g>
-      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.010;0.060;0.110;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16">TypeScript<animate attributeName="fill" values="#8A8A8F;#8A8A8F;#22D3EE;#8A8A8F;#8A8A8F" keyTimes="0;0.010;0.060;0.110;1" dur="8s" repeatCount="indefinite"/></text>
+      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.0056;0.0556;0.1056;1" dur="8s" repeatCount="indefinite"/>
+      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16" fill="#F5F4F2">TypeScript<animate attributeName="fill" values="#F5F4F2;#F5F4F2;#22D3EE;#F5F4F2;#F5F4F2" keyTimes="0;0.0056;0.0556;0.1056;1" dur="8s" repeatCount="indefinite"/></text>
     </g>
   </g>
-  <g transform="translate(150.0 60.0)">
+  <g transform="translate(202.5 60.0)">
     <g>
-      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.077;0.127;0.177;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16">JavaScript<animate attributeName="fill" values="#8A8A8F;#8A8A8F;#22D3EE;#8A8A8F;#8A8A8F" keyTimes="0;0.077;0.127;0.177;1" dur="8s" repeatCount="indefinite"/></text>
+      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.1167;0.1667;0.2167;1" dur="8s" repeatCount="indefinite"/>
+      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16" fill="#F5F4F2">JavaScript<animate attributeName="fill" values="#F5F4F2;#F5F4F2;#22D3EE;#F5F4F2;#F5F4F2" keyTimes="0;0.1167;0.1667;0.2167;1" dur="8s" repeatCount="indefinite"/></text>
     </g>
   </g>
-  <g transform="translate(250.0 60.0)">
+  <g transform="translate(335.0 60.0)">
     <g>
-      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.143;0.193;0.243;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16">Python<animate attributeName="fill" values="#8A8A8F;#8A8A8F;#22D3EE;#8A8A8F;#8A8A8F" keyTimes="0;0.143;0.193;0.243;1" dur="8s" repeatCount="indefinite"/></text>
+      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.2278;0.2778;0.3278;1" dur="8s" repeatCount="indefinite"/>
+      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16" fill="#F5F4F2">Python<animate attributeName="fill" values="#F5F4F2;#F5F4F2;#22D3EE;#F5F4F2;#F5F4F2" keyTimes="0;0.2278;0.2778;0.3278;1" dur="8s" repeatCount="indefinite"/></text>
     </g>
   </g>
-  <g transform="translate(350.0 60.0)">
+  <g transform="translate(467.5 60.0)">
     <g>
-      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.210;0.260;0.310;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16">Node.js<animate attributeName="fill" values="#8A8A8F;#8A8A8F;#22D3EE;#8A8A8F;#8A8A8F" keyTimes="0;0.210;0.260;0.310;1" dur="8s" repeatCount="indefinite"/></text>
+      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.3389;0.3889;0.4389;1" dur="8s" repeatCount="indefinite"/>
+      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16" fill="#F5F4F2">Node.js<animate attributeName="fill" values="#F5F4F2;#F5F4F2;#22D3EE;#F5F4F2;#F5F4F2" keyTimes="0;0.3389;0.3889;0.4389;1" dur="8s" repeatCount="indefinite"/></text>
     </g>
   </g>
-  <g transform="translate(450.0 60.0)">
+  <g transform="translate(600.0 60.0)">
     <g>
-      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.277;0.327;0.377;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16">React<animate attributeName="fill" values="#8A8A8F;#8A8A8F;#22D3EE;#8A8A8F;#8A8A8F" keyTimes="0;0.277;0.327;0.377;1" dur="8s" repeatCount="indefinite"/></text>
+      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.45;0.5;0.55;1" dur="8s" repeatCount="indefinite"/>
+      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16" fill="#F5F4F2">React<animate attributeName="fill" values="#F5F4F2;#F5F4F2;#22D3EE;#F5F4F2;#F5F4F2" keyTimes="0;0.45;0.5;0.55;1" dur="8s" repeatCount="indefinite"/></text>
     </g>
   </g>
-  <g transform="translate(550.0 60.0)">
+  <g transform="translate(732.5 60.0)">
     <g>
-      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.343;0.393;0.443;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16">HTML<animate attributeName="fill" values="#8A8A8F;#8A8A8F;#22D3EE;#8A8A8F;#8A8A8F" keyTimes="0;0.343;0.393;0.443;1" dur="8s" repeatCount="indefinite"/></text>
+      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.5611;0.6111;0.6611;1" dur="8s" repeatCount="indefinite"/>
+      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16" fill="#F5F4F2">HTML<animate attributeName="fill" values="#F5F4F2;#F5F4F2;#22D3EE;#F5F4F2;#F5F4F2" keyTimes="0;0.5611;0.6111;0.6611;1" dur="8s" repeatCount="indefinite"/></text>
     </g>
   </g>
-  <g transform="translate(650.0 60.0)">
+  <g transform="translate(865.0 60.0)">
     <g>
-      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.410;0.460;0.510;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16">CSS<animate attributeName="fill" values="#8A8A8F;#8A8A8F;#22D3EE;#8A8A8F;#8A8A8F" keyTimes="0;0.410;0.460;0.510;1" dur="8s" repeatCount="indefinite"/></text>
+      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.6722;0.7222;0.7722;1" dur="8s" repeatCount="indefinite"/>
+      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16" fill="#F5F4F2">CSS<animate attributeName="fill" values="#F5F4F2;#F5F4F2;#22D3EE;#F5F4F2;#F5F4F2" keyTimes="0;0.6722;0.7222;0.7722;1" dur="8s" repeatCount="indefinite"/></text>
     </g>
   </g>
-  <g transform="translate(750.0 60.0)">
+  <g transform="translate(997.5 60.0)">
     <g>
-      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.477;0.527;0.577;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16">Git<animate attributeName="fill" values="#8A8A8F;#8A8A8F;#22D3EE;#8A8A8F;#8A8A8F" keyTimes="0;0.477;0.527;0.577;1" dur="8s" repeatCount="indefinite"/></text>
+      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.7833;0.8333;0.8833;1" dur="8s" repeatCount="indefinite"/>
+      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16" fill="#F5F4F2">Git<animate attributeName="fill" values="#F5F4F2;#F5F4F2;#22D3EE;#F5F4F2;#F5F4F2" keyTimes="0;0.7833;0.8333;0.8833;1" dur="8s" repeatCount="indefinite"/></text>
     </g>
   </g>
-  <g transform="translate(850.0 60.0)">
+  <g transform="translate(1130.0 60.0)">
     <g>
-      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.543;0.593;0.643;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16">Docker<animate attributeName="fill" values="#8A8A8F;#8A8A8F;#22D3EE;#8A8A8F;#8A8A8F" keyTimes="0;0.543;0.593;0.643;1" dur="8s" repeatCount="indefinite"/></text>
-    </g>
-  </g>
-  <g transform="translate(950.0 60.0)">
-    <g>
-      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.610;0.660;0.710;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16">Postgres<animate attributeName="fill" values="#8A8A8F;#8A8A8F;#22D3EE;#8A8A8F;#8A8A8F" keyTimes="0;0.610;0.660;0.710;1" dur="8s" repeatCount="indefinite"/></text>
-    </g>
-  </g>
-  <g transform="translate(1050.0 60.0)">
-    <g>
-      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.677;0.727;0.777;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16">Redis<animate attributeName="fill" values="#8A8A8F;#8A8A8F;#22D3EE;#8A8A8F;#8A8A8F" keyTimes="0;0.677;0.727;0.777;1" dur="8s" repeatCount="indefinite"/></text>
-    </g>
-  </g>
-  <g transform="translate(1150.0 60.0)">
-    <g>
-      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.743;0.793;0.843;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16">Linux<animate attributeName="fill" values="#8A8A8F;#8A8A8F;#22D3EE;#8A8A8F;#8A8A8F" keyTimes="0;0.743;0.793;0.843;1" dur="8s" repeatCount="indefinite"/></text>
+      <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1;1" keyTimes="0;0.8944;0.9444;0.9944;1" dur="8s" repeatCount="indefinite"/>
+      <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" class="tech" font-size="16" fill="#F5F4F2">and way more +<animate attributeName="fill" values="#F5F4F2;#F5F4F2;#22D3EE;#F5F4F2;#F5F4F2" keyTimes="0;0.8944;0.9444;0.9944;1" dur="8s" repeatCount="indefinite"/></text>
     </g>
   </g>
 </svg>
