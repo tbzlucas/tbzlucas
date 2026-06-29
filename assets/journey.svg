@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" width="720" height="760" role="img" aria-label="Lucas Tassi - progression timeline by age">
+  <defs>
+    <style>
+      .age { font-family: 'Arial Black', 'Helvetica Neue', Arial, sans-serif; }
+      .title { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; }
+      .body { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 400; }
+    </style>
+  </defs>
+
+  <rect width="720" height="760" fill="#0A0A0B"/>
+
+  <line x1="90" y1="60" x2="90" y2="700" stroke="#141416" stroke-width="2"/>
+  <line x1="90" y1="60" x2="90" y2="700" stroke="#22D3EE" stroke-width="2" stroke-dasharray="640" stroke-dashoffset="640">
+    <animate attributeName="stroke-dashoffset" values="640;0;0;640" keyTimes="0;0.55;0.9;1" dur="11s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1"/>
+  </line>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.06;0.12;0.9;1" dur="11s" repeatCount="indefinite"/>
+    <circle cx="90" cy="100" r="6" fill="#22D3EE"/>
+    <text x="140" y="92" class="age" font-size="46" fill="#141416" stroke="#8A8A8F" stroke-width="0.5" opacity="0.55">12</text>
+    <text x="140" y="110" class="title" font-size="19" fill="#F5F4F2">Scratch</text>
+    <text x="140" y="134" class="body" font-size="14" fill="#8A8A8F">First logic. Blocks, not text.</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.18;0.24;0.9;1" dur="11s" repeatCount="indefinite"/>
+    <circle cx="90" cy="210" r="6" fill="#22D3EE"/>
+    <text x="140" y="202" class="age" font-size="46" fill="#141416" stroke="#8A8A8F" stroke-width="0.5" opacity="0.55">14</text>
+    <text x="140" y="220" class="title" font-size="19" fill="#F5F4F2">Vibe coding on Replit</text>
+    <text x="140" y="244" class="body" font-size="14" fill="#8A8A8F">First real builds.</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.30;0.36;0.9;1" dur="11s" repeatCount="indefinite"/>
+    <circle cx="90" cy="320" r="6" fill="#22D3EE"/>
+    <text x="140" y="312" class="age" font-size="46" fill="#141416" stroke="#8A8A8F" stroke-width="0.5" opacity="0.55">16</text>
+    <text x="140" y="330" class="title" font-size="19" fill="#F5F4F2">Chrome and local extensions</text>
+    <text x="140" y="354" class="body" font-size="14" fill="#8A8A8F">Shipping tools people install.</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.48;0.9;1" dur="11s" repeatCount="indefinite"/>
+    <circle cx="90" cy="430" r="6" fill="#22D3EE"/>
+    <text x="140" y="422" class="age" font-size="46" fill="#141416" stroke="#8A8A8F" stroke-width="0.5" opacity="0.55">17</text>
+    <text x="140" y="440" class="title" font-size="19" fill="#F5F4F2">Full websites</text>
+    <text x="140" y="464" class="body" font-size="14" fill="#8A8A8F">Front to back, live.</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.54;0.60;0.9;1" dur="11s" repeatCount="indefinite"/>
+    <circle cx="90" cy="540" r="6" fill="#22D3EE"/>
+    <text x="140" y="532" class="age" font-size="46" fill="#141416" stroke="#8A8A8F" stroke-width="0.5" opacity="0.55">18</text>
+    <text x="140" y="550" class="title" font-size="19" fill="#F5F4F2">Telegram bots and automated agents</text>
+    <text x="140" y="574" class="body" font-size="14" fill="#8A8A8F">Security research and ethical hacking.</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.66;0.72;1" dur="11s" repeatCount="indefinite"/>
+    <circle cx="90" cy="650" r="14" fill="none" stroke="#22D3EE" stroke-width="2">
+      <animate attributeName="r" values="8;16;8" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+      <animate attributeName="opacity" values="0.9;0.1;0.9" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90" cy="650" r="7" fill="#22D3EE"/>
+    <text x="140" y="642" class="age" font-size="46" fill="#22D3EE" opacity="0.85">19</text>
+    <text x="140" y="660" class="title" font-size="19" fill="#F5F4F2">Computer Science, University of Bristol</text>
+    <text x="140" y="684" class="body" font-size="14" fill="#22D3EE">Incoming.</text>
+  </g>
+</svg>
