@@ -4,9 +4,7 @@
 
 </div>
 
-Started in Scratch, moved through Replit, then shipped Chrome extensions, full websites, full web apps, and a Solana Telegram trading bot. Self-taught. I build end to end and I finish.
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+Started in Scratch at 12, shipping extensions by 16, full web apps and Telegram bots by 18. Self-taught, end to end. Computer Science at Bristol next.
 
 ### Stack
 
@@ -25,57 +23,16 @@ Started in Scratch, moved through Replit, then shipped Chrome extensions, full w
     <td align="center"><sub><b>Redis</b></sub></td>
     <td align="center"><sub><b>Linux</b></sub></td>
   </tr>
-  <tr>
-    <td align="center"><kbd>TS</kbd></td>
-    <td align="center"><kbd>JS</kbd></td>
-    <td align="center"><kbd>PY</kbd></td>
-    <td align="center"><kbd>NODE</kbd></td>
-    <td align="center"><kbd>RE</kbd></td>
-    <td align="center"><kbd>HTML</kbd></td>
-    <td align="center"><kbd>CSS</kbd></td>
-    <td align="center"><kbd>GIT</kbd></td>
-    <td align="center"><kbd>DKR</kbd></td>
-    <td align="center"><kbd>PG</kbd></td>
-    <td align="center"><kbd>RDS</kbd></td>
-    <td align="center"><kbd>LX</kbd></td>
-  </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center">
 
-### Featured
+<img src="./assets/journey.svg" width="100%" alt="Lucas Tassi - progression timeline by age" />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Solana Telegram Trading Bot</b><br>
-      <sub>Reads the chain in real time and fires trades straight from Telegram in milliseconds. Wallet tracking, auto-buys, on-chain confirmations. The flagship.</sub><br><br>
-      <a href="[LINK]"><kbd> repo </kbd></a>
-    </td>
-    <td width="50%" valign="top">
-      <b>Chrome Extension</b><br>
-      <sub>Injects clean UI into the pages people already live on and moves data where it needs to go. Lean, quiet, no permission bloat.</sub><br><br>
-      <a href="[LINK]"><kbd> repo </kbd></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Full Web App</b><br>
-      <sub>End to end product: typed API, React front end, Postgres and Redis behind it. Auth, state, and deploy handled by me.</sub><br><br>
-      <a href="[LINK]"><kbd> repo </kbd></a>
-    </td>
-    <td width="50%" valign="top">
-      <b>[your flagship - fill in]</b><br>
-      <sub>The one you want people to click first. Replace this with the project that proves the point.</sub><br><br>
-      <a href="[LINK]"><kbd> repo </kbd></a>
-    </td>
-  </tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+</div>
 
 ### Contact
 
-<a href="https://t.me/jugugalu"><kbd> Telegram </kbd></a>  &nbsp; <a href="https://github.com/tbzlucas"><kbd> GitHub </kbd></a>
+<a href="https://t.me/jugugalu"><kbd> Telegram </kbd></a> &nbsp; <a href="https://github.com/tbzlucas"><kbd> GitHub </kbd></a> &nbsp; <a href="mailto:lucastbz2007@gmail.com"><kbd> Email </kbd></a>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
