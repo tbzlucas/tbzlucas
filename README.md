@@ -20,6 +20,16 @@ Started in Scratch at 12, shipping extensions by 16, full web apps, bots and gam
 
 </div>
 
+### Security Assessments
+
+I also perform web application and infrastructure security assessments — recon, misconfiguration and exposure checks, API/auth testing, and a full written findings report with severities and remediation steps. Example areas: exposed storage buckets, IDOR and broken access control, secrets exposure, auth/session issues, and security-header gaps.
+
+**Introductory rate: $5 for a scan.** The full report and pricing vary depending on findings and severity.
+
+Testing is performed only on sites you own or are explicitly authorized to test. To request an assessment, reach out with proof of ownership or written authorization for the target.
+
+Contact me via Telegram or Email (below).
+
 ### Contact
 
 <div align="center">
