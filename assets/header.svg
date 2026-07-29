@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Lucas Tassi - Full-Stack Developer, London">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Lucas - Full-Stack Developer, UK">
   <defs>
     <radialGradient id="vignette" cx="50%" cy="44%" r="75%">
       <stop offset="0%" stop-color="#141416"/>
@@ -43,9 +43,9 @@
   <rect x="0" y="0" width="1200" height="1" fill="#22D3EE" opacity="0.22"/>
   <rect x="0" y="299" width="1200" height="1" fill="#22D3EE" opacity="0.22"/>
 
-  <text x="600" y="150" text-anchor="middle" class="display" font-size="104" font-weight="900" letter-spacing="-4" fill="url(#sheen)">LUCAS TASSI</text>
+  <text x="600" y="150" text-anchor="middle" class="display" font-size="104" font-weight="900" letter-spacing="-4" fill="url(#sheen)">LUCAS</text>
 
-  <text x="600" y="205" text-anchor="middle" class="sub" font-size="22" font-weight="500" letter-spacing="6" fill="#8A8A8F">FULL-STACK DEVELOPER  ·  LONDON</text>
+  <text x="600" y="205" text-anchor="middle" class="sub" font-size="22" font-weight="500" letter-spacing="6" fill="#8A8A8F">FULL-STACK DEVELOPER  ·  UK</text>
 
   <line x1="470" y1="222" x2="730" y2="222" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-dasharray="260" stroke-dashoffset="260">
     <animate attributeName="stroke-dashoffset" values="260;0;0;260" keyTimes="0;0.35;0.85;1" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1"/>
