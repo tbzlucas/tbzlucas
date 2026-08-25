@@ -4,7 +4,7 @@
 
 </div>
 
-Started in Scratch at 12, shipping extensions by 16, full web apps, bots and games by 18. Self-taught, end to end. Computer Science at Bristol next.
+Started in Scratch at 12, shipping extensions by 16, full web apps, bots and games by 18. Self-taught, end to end. Currently studying Computer Science at Bristol.
 
 ### Stack
 
